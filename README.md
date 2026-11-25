@@ -1,5 +1,11 @@
 # Browser-Control-SDK PHP SDK
 
+<!-- simple-start:start -->
+Use Browser-Control-SDK from a PHP app.
+
+**Start here.** Run `composer require titancsa/browser-control-sdk`, then try the short example below.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Contact TitanCSA**
 >
